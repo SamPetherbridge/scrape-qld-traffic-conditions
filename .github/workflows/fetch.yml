@@ -1,0 +1,32 @@
+name: Scrape latest data
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+        with:
+            persist-credentials: true
+        
+      - name: Fetch latest data
+        run: |-
+          # Fetch the air quality data
+          curl -k https://data.qldtraffic.qld.gov.au/events_v2.geojson | jq . > data.geojson
+      
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git pull --rebase
+          git push
