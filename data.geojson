@@ -351814,11 +351814,11 @@
         "event_subtype": "Single vehicle",
         "event_due_to": null,
         "impact": {
-          "direction": "Both directions",
-          "towards": null,
-          "impact_type": "Closures",
-          "impact_subtype": "Road closed to all traffic",
-          "delay": "Long delays expected"
+          "direction": "Southbound",
+          "towards": "Gympie Road",
+          "impact_type": "No blockage",
+          "impact_subtype": null,
+          "delay": null
         },
         "duration": {
           "start": "2026-07-26T20:59:00+10:00",
@@ -351826,9 +351826,9 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "High",
+        "event_priority": "Low",
         "description": "Near Station Street",
-        "advice": "Use alternative route",
+        "advice": "Proceed with caution",
         "information": null,
         "road_summary": {
           "road_name": "Anzac Avenue",
@@ -351837,7 +351837,7 @@
           "local_government_area": "Moreton Bay Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-07-27T03:27:46.673895+10:00",
+        "last_updated": "2026-07-27T04:21:32.214194+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -351908,7 +351908,7 @@
       }
     }
   ],
-  "published": "2026-07-27T04:01:53.5700493+10:00",
+  "published": "2026-07-27T04:21:34.9125435+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
