@@ -9911,7 +9911,7 @@
           "local_government_area": "Scenic Rim Regional",
           "district": "South Coast"
         },
-        "last_updated": "2026-08-15T22:37:20.365901+10:00",
+        "last_updated": "2026-08-16T02:37:20.004844+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -11358,7 +11358,7 @@
           "local_government_area": "Mareeba Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-08-15T22:36:42.919885+10:00",
+        "last_updated": "2026-08-16T02:36:41.49396+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -144940,7 +144940,7 @@
           "local_government_area": "Mareeba Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-08-15T22:36:43.626903+10:00",
+        "last_updated": "2026-08-16T02:36:42.418813+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -150838,7 +150838,7 @@
           "local_government_area": "Mareeba Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-08-15T22:36:41.577045+10:00",
+        "last_updated": "2026-08-16T02:36:40.407349+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -151504,7 +151504,7 @@
           "local_government_area": "Etheridge Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-08-15T22:36:42.23607+10:00",
+        "last_updated": "2026-08-16T02:36:41.642222+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -203167,7 +203167,7 @@
           "local_government_area": "Diamantina Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-08-15T22:37:14.002735+10:00",
+        "last_updated": "2026-08-16T02:37:13.556383+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -301630,7 +301630,7 @@
           "local_government_area": "Maranoa Regional",
           "district": "South West"
         },
-        "last_updated": "2026-08-15T22:37:14.636738+10:00",
+        "last_updated": "2026-08-16T02:37:14.028226+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -301800,7 +301800,7 @@
           "local_government_area": "Maranoa Regional",
           "district": "South West"
         },
-        "last_updated": "2026-08-15T22:37:13.493611+10:00",
+        "last_updated": "2026-08-16T02:37:12.982944+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -303559,14 +303559,14 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-08-16T00:44:31.354575+10:00",
+        "last_updated": "2026-08-16T02:38:32.267194+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-08-16T02:01:30.1408929+10:00",
+  "published": "2026-08-16T02:38:33.7451106+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
