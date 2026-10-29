@@ -160784,7 +160784,7 @@
         },
         "duration": {
           "start": "2026-10-23T07:00:00+10:00",
-          "end": "2026-11-06T17:00:00+10:00",
+          "end": "2026-11-11T17:00:00+10:00",
           "active_days": null,
           "recurrences": null
         },
@@ -160799,7 +160799,7 @@
           "local_government_area": "Cairns Regional",
           "district": "Far North"
         },
-        "last_updated": "2026-10-30T06:00:43.495765+10:00",
+        "last_updated": "2026-10-30T06:32:55.101273+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -321820,8 +321820,8 @@
           "local_government_area": "Isaac Regional",
           "district": "Mackay/Whitsunday"
         },
-        "last_updated": "2026-10-29T06:42:01.90572+10:00",
-        "next_inspection": null,
+        "last_updated": "2026-10-30T06:34:01.538249+10:00",
+        "next_inspection": "2026-04-11T06:32:00+10:00",
         "web_link": null,
         "alert_message": null
       }
@@ -449760,8 +449760,8 @@
           "local_government_area": "Isaac Regional",
           "district": "Mackay/Whitsunday"
         },
-        "last_updated": "2026-10-29T06:38:02.423931+10:00",
-        "next_inspection": "2026-01-11T06:36:00+10:00",
+        "last_updated": "2026-10-30T06:32:01.7485+10:00",
+        "next_inspection": "2026-04-11T06:31:00+10:00",
         "web_link": null,
         "alert_message": null
       }
@@ -449875,9 +449875,9 @@
         "impact": {
           "direction": "All directions",
           "towards": null,
-          "impact_type": "Closures",
-          "impact_subtype": "Road closed to all traffic",
-          "delay": "Delays expected"
+          "impact_type": "No blockage",
+          "impact_subtype": "",
+          "delay": "No delays expected"
         },
         "duration": {
           "start": "2026-10-27T09:22:00+10:00",
@@ -449886,7 +449886,7 @@
           "recurrences": null
         },
         "event_priority": "Medium",
-        "description": null,
+        "description": "Water over the road, proceed with caution, do not drive in flood waters",
         "advice": "Do not drive in flood waters",
         "information": null,
         "road_summary": {
@@ -449896,8 +449896,8 @@
           "local_government_area": "Isaac Regional",
           "district": "Mackay/Whitsunday"
         },
-        "last_updated": "2026-10-29T06:38:04.590763+10:00",
-        "next_inspection": null,
+        "last_updated": "2026-10-30T06:32:03.807148+10:00",
+        "next_inspection": "2026-04-11T06:31:00+10:00",
         "web_link": null,
         "alert_message": null
       }
@@ -507732,7 +507732,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-30T06:26:01.244427+10:00",
+        "last_updated": "2026-10-30T06:35:10.717083+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -508895,7 +508895,7 @@
       }
     }
   ],
-  "published": "2026-10-30T06:26:05.3235059+10:00",
+  "published": "2026-10-30T06:35:12.9871549+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
