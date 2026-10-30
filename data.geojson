@@ -286488,7 +286488,7 @@
           "local_government_area": "Banana Shire / Central Highlands Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T12:25:34.147084+10:00",
+        "last_updated": "2026-10-31T00:25:34.078349+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -336859,7 +336859,7 @@
           "local_government_area": "Central Highlands Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T22:58:53.668125+10:00",
+        "last_updated": "2026-10-31T00:14:17.394539+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -516243,7 +516243,7 @@
         "event_subtype": "Adverse driving conditions",
         "event_due_to": null,
         "impact": {
-          "direction": "Both directions",
+          "direction": "Northbound",
           "towards": "",
           "impact_type": "N/A",
           "impact_subtype": null,
@@ -516266,7 +516266,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T00:14:14.08544+10:00",
+        "last_updated": "2026-10-31T00:32:13.491087+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527299,7 +527299,7 @@
       }
     }
   ],
-  "published": "2026-10-31T00:14:16.218101+10:00",
+  "published": "2026-10-31T00:32:15.5174829+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
