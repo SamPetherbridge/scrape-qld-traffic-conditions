@@ -57810,7 +57810,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:14:16.563918+10:00",
+        "last_updated": "2026-10-31T06:43:44.128238+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -168551,7 +168551,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:15:31.516757+10:00",
+        "last_updated": "2026-10-31T06:44:40.391402+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -259286,7 +259286,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:14:56.986113+10:00",
+        "last_updated": "2026-10-31T06:44:17.677694+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -259692,7 +259692,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:17:23.733392+10:00",
+        "last_updated": "2026-10-31T06:45:15.630987+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -265100,7 +265100,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:17:47.577729+10:00",
+        "last_updated": "2026-10-31T06:45:22.049201+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -266242,7 +266242,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-31T02:03:40.853082+10:00",
+        "last_updated": "2026-10-31T06:46:08.502717+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -267393,9 +267393,9 @@
         "impact": {
           "direction": "Both directions",
           "towards": null,
-          "impact_type": "Lanes affected",
-          "impact_subtype": "All lanes affected",
-          "delay": null
+          "impact_type": "Road restricted",
+          "impact_subtype": "Restricted to four wheel drive vehicles only",
+          "delay": "Delays expected"
         },
         "duration": {
           "start": "2026-10-20T09:38:00+10:00",
@@ -267403,7 +267403,7 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Medium",
+        "event_priority": "Low",
         "description": "Muttaburra to Longreach (Muttaburra to Longreach Council Boundary)",
         "advice": "Do not drive in flood waters",
         "information": null,
@@ -267414,7 +267414,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-31T01:57:58.115937+10:00",
+        "last_updated": "2026-10-31T06:47:24.813926+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -317651,7 +317651,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:16:53.905278+10:00",
+        "last_updated": "2026-10-31T06:45:07.620291+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -344541,7 +344541,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:18:08.368976+10:00",
+        "last_updated": "2026-10-31T06:45:29.759233+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -347397,7 +347397,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:18:24.228368+10:00",
+        "last_updated": "2026-10-31T06:45:37.263154+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -348607,7 +348607,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:18:43.111506+10:00",
+        "last_updated": "2026-10-31T06:45:49.749325+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527607,7 +527607,7 @@
       }
     }
   ],
-  "published": "2026-10-31T06:43:00.9426272+10:00",
+  "published": "2026-10-31T06:47:27.8328734+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
