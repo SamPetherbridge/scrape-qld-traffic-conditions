@@ -312851,7 +312851,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-31T06:02:42.23535+10:00",
+        "last_updated": "2026-10-31T06:37:58.412184+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -481952,9 +481952,9 @@
         "impact": {
           "direction": "Both directions",
           "towards": null,
-          "impact_type": "Closures",
-          "impact_subtype": "Road closed to all traffic",
-          "delay": null
+          "impact_type": "Lanes affected",
+          "impact_subtype": "All lanes affected",
+          "delay": "No delays expected"
         },
         "duration": {
           "start": "2026-10-28T10:29:00+10:00",
@@ -481973,7 +481973,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-31T01:57:52.31841+10:00",
+        "last_updated": "2026-10-31T06:36:28.635826+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -516254,7 +516254,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T05:31:57.741691+10:00",
+        "last_updated": "2026-10-31T06:38:13.893722+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527280,7 +527280,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T03:44:00.432954+10:00",
+        "last_updated": "2026-10-31T06:38:14.402222+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527344,7 +527344,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T05:29:13.854356+10:00",
+        "last_updated": "2026-10-31T06:38:14.162557+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527607,7 +527607,7 @@
       }
     }
   ],
-  "published": "2026-10-31T06:32:33.7081834+10:00",
+  "published": "2026-10-31T06:38:22.3818227+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
