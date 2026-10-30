@@ -514171,7 +514171,7 @@
           "local_government_area": "Etheridge Shire / Flinders Shire",
           "district": "Far North / North West"
         },
-        "last_updated": "2026-10-30T17:30:42.201105+10:00",
+        "last_updated": "2026-10-31T05:30:42.21006+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -515976,7 +515976,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T03:56:03.32496+10:00",
+        "last_updated": "2026-10-31T05:31:57.741691+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527194,14 +527194,14 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-31T05:29:18.915984+10:00",
+        "last_updated": "2026-10-31T05:31:57.744318+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
       }
     }
   ],
-  "published": "2026-10-31T05:29:21.3011267+10:00",
+  "published": "2026-10-31T05:32:02.2607623+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
