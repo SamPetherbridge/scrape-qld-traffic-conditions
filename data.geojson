@@ -527228,7 +527228,7 @@
           "local_government_area": "Brisbane City",
           "district": "Metropolitan"
         },
-        "last_updated": "2026-10-31T02:46:00.167871+10:00",
+        "last_updated": "2026-10-31T03:12:33.243234+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527397,11 +527397,11 @@
         "event_subtype": "Single vehicle",
         "event_due_to": null,
         "impact": {
-          "direction": "Both directions",
-          "towards": null,
-          "impact_type": "Lanes affected",
-          "impact_subtype": "Lane or lanes reduced",
-          "delay": "Delays expected"
+          "direction": "Northbound",
+          "towards": "Fortitude Valley",
+          "impact_type": "Lanes blocked",
+          "impact_subtype": "All lanes blocked",
+          "delay": "No delays expected"
         },
         "duration": {
           "start": "2026-10-31T02:31:00+10:00",
@@ -527409,8 +527409,8 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Medium",
-        "description": "at Baines St",
+        "event_priority": "High",
+        "description": "at Walmsley Street",
         "advice": "Diversions are in place",
         "information": null,
         "road_summary": {
@@ -527420,7 +527420,7 @@
           "local_government_area": "Brisbane City",
           "district": "Metropolitan"
         },
-        "last_updated": "2026-10-31T02:32:44.711891+10:00",
+        "last_updated": "2026-10-31T03:13:43.926462+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527491,7 +527491,7 @@
       }
     }
   ],
-  "published": "2026-10-31T03:08:13.0574965+10:00",
+  "published": "2026-10-31T03:13:46.3752317+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
