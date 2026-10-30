@@ -527205,11 +527205,11 @@
         "event_subtype": "Multi-vehicle",
         "event_due_to": null,
         "impact": {
-          "direction": "Northbound",
-          "towards": "Virginia",
+          "direction": "Southbound",
+          "towards": "Toombul",
           "impact_type": "Lanes blocked",
-          "impact_subtype": "All lanes blocked",
-          "delay": "Delays expected"
+          "impact_subtype": "One lane blocked",
+          "delay": "No delays expected"
         },
         "duration": {
           "start": "2026-10-30T22:46:00+10:00",
@@ -527217,9 +527217,9 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "High",
-        "description": "at Rode Rd",
-        "advice": "Diversions are in place",
+        "event_priority": "Medium",
+        "description": "Right turn lane into Rode Rd",
+        "advice": "Proceed with caution",
         "information": null,
         "road_summary": {
           "road_name": "Sandgate Road",
@@ -527228,7 +527228,7 @@
           "local_government_area": "Brisbane City",
           "district": "Metropolitan"
         },
-        "last_updated": "2026-10-31T03:12:33.243234+10:00",
+        "last_updated": "2026-10-31T03:28:44.312088+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527491,7 +527491,7 @@
       }
     }
   ],
-  "published": "2026-10-31T03:13:46.3752317+10:00",
+  "published": "2026-10-31T03:28:47.5839425+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
