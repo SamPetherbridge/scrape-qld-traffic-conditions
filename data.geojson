@@ -4261,7 +4261,7 @@
           "local_government_area": "Mareeba Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-10-30T21:30:46.927627+10:00",
+        "last_updated": "2026-10-30T22:56:36.350472+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -8063,7 +8063,7 @@
           "local_government_area": "Moreton Bay Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:19.957946+10:00",
+        "last_updated": "2026-10-30T22:57:10.862622+10:00",
         "next_inspection": null,
         "web_link": "https://www.tmr.qld.gov.au/projects/bruce-highway-brisbane-gympie-dohles-rocks-road-to-anzac-avenue-upgrade",
         "alert_message": null
@@ -8321,7 +8321,7 @@
           "local_government_area": "Moreton Bay Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:06.05925+10:00",
+        "last_updated": "2026-10-30T22:57:49.805109+10:00",
         "next_inspection": null,
         "web_link": "https://www.tmr.qld.gov.au/projects/bruce-highway-brisbane-gympie-dohles-rocks-road-to-anzac-avenue-upgrade",
         "alert_message": null
@@ -10893,7 +10893,7 @@
           "local_government_area": "Rockhampton Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:44:02.178622+10:00",
+        "last_updated": "2026-10-30T22:58:01.142895+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -12070,7 +12070,7 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:06.04407+10:00",
+        "last_updated": "2026-10-30T22:57:49.203781+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -12347,7 +12347,7 @@
           "local_government_area": "Bundaberg Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-10-30T18:44:20.148431+10:00",
+        "last_updated": "2026-10-30T22:57:11.5543+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -13637,7 +13637,7 @@
           "local_government_area": "Carpentaria Shire",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T19:01:47.973938+10:00",
+        "last_updated": "2026-10-30T22:56:46.846274+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -13842,7 +13842,7 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:19.088046+10:00",
+        "last_updated": "2026-10-30T22:57:10.156907+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -23064,7 +23064,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:27.396118+10:00",
+        "last_updated": "2026-10-30T22:56:59.207694+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -25796,7 +25796,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:25.614218+10:00",
+        "last_updated": "2026-10-30T22:57:19.403742+10:00",
         "next_inspection": null,
         "web_link": "https://www.yoursay-projects.tmr.qld.gov.au/queensland-train-manufacturing-program/goldmine-road-upgrade",
         "alert_message": null
@@ -36536,7 +36536,7 @@
           "local_government_area": "Livingstone Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:44:07.889044+10:00",
+        "last_updated": "2026-10-30T22:57:46.68648+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -55114,7 +55114,7 @@
           "local_government_area": "Isaac Regional",
           "district": "Mackay/Whitsunday"
         },
-        "last_updated": "2026-10-30T18:43:58.470856+10:00",
+        "last_updated": "2026-10-30T22:58:08.399753+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -55288,7 +55288,7 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:00.171749+10:00",
+        "last_updated": "2026-10-30T22:58:06.320107+10:00",
         "next_inspection": null,
         "web_link": "https://www.tmr.qld.gov.au/projects/mooloolah-river-interchange-upgrade-stage-1",
         "alert_message": null
@@ -58968,7 +58968,7 @@
           "local_government_area": "Livingstone Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:44:04.763139+10:00",
+        "last_updated": "2026-10-30T22:57:59.46745+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -70932,7 +70932,7 @@
           "recurrences": [
             {
               "event_id": 800705,
-              "description": "From Sunday 6 PM to Saturday 6 AM",
+              "description": "From Sunday 7 AM to Saturday 5 PM",
               "impact": {
                 "direction": "Both directions",
                 "towards": null,
@@ -70943,7 +70943,7 @@
             },
             {
               "event_id": 800705,
-              "description": "From Sunday 7 AM to Saturday 5 PM",
+              "description": "From Sunday 6 PM to Saturday 6 AM",
               "impact": {
                 "direction": "Both directions",
                 "towards": null,
@@ -72297,7 +72297,7 @@
           "local_government_area": "Etheridge Shire",
           "district": "Far North"
         },
-        "last_updated": "2026-10-30T21:30:46.345414+10:00",
+        "last_updated": "2026-10-30T22:56:36.911294+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -73415,7 +73415,7 @@
           "local_government_area": "Livingstone Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:44:06.995698+10:00",
+        "last_updated": "2026-10-30T22:57:47.952569+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -74531,7 +74531,7 @@
           "local_government_area": "Logan City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:15.569007+10:00",
+        "last_updated": "2026-10-30T22:57:21.006477+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -79176,7 +79176,7 @@
           "local_government_area": "Scenic Rim Regional",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:13.408166+10:00",
+        "last_updated": "2026-10-30T22:57:41.560463+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -80543,7 +80543,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:15.956371+10:00",
+        "last_updated": "2026-10-30T22:57:07.956595+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -81003,7 +81003,7 @@
           "local_government_area": "Bundaberg Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-10-30T18:44:06.392309+10:00",
+        "last_updated": "2026-10-30T22:57:50.781869+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -85765,7 +85765,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:16.601737+10:00",
+        "last_updated": "2026-10-30T22:57:09.371299+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -89925,7 +89925,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:14.125685+10:00",
+        "last_updated": "2026-10-30T22:57:03.032763+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -103878,7 +103878,7 @@
           "local_government_area": "Gladstone Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:44:07.141824+10:00",
+        "last_updated": "2026-10-30T22:57:46.099023+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -124728,7 +124728,7 @@
           "local_government_area": "Fraser Coast Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-10-30T09:16:59.915788+10:00",
+        "last_updated": "2026-10-30T22:58:19.390114+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -124816,7 +124816,7 @@
           "local_government_area": "Quilpie Shire",
           "district": "South West"
         },
-        "last_updated": "2026-10-30T18:44:24.156798+10:00",
+        "last_updated": "2026-10-30T22:57:18.787381+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -124880,7 +124880,7 @@
           "local_government_area": "Somerset Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:00.581848+10:00",
+        "last_updated": "2026-10-30T22:58:04.790383+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -126374,7 +126374,7 @@
           "local_government_area": "Logan City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:13.914603+10:00",
+        "last_updated": "2026-10-30T22:57:42.252462+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -127564,7 +127564,7 @@
           "local_government_area": "Noosa Shire",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:03.777586+10:00",
+        "last_updated": "2026-10-30T22:58:00.558173+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -127628,7 +127628,7 @@
           "local_government_area": "Somerset Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T18:44:01.755536+10:00",
+        "last_updated": "2026-10-30T22:58:05.547723+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -132148,7 +132148,7 @@
           "local_government_area": "Barcaldine Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T18:44:29.029543+10:00",
+        "last_updated": "2026-10-30T22:56:59.667256+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -137835,7 +137835,7 @@
           "local_government_area": "Logan City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:16.194172+10:00",
+        "last_updated": "2026-10-30T22:57:08.589676+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -167591,7 +167591,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:41:32.676063+10:00",
+        "last_updated": "2026-10-30T22:56:33.407165+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -169327,7 +169327,7 @@
           "local_government_area": "Gold Coast City",
           "district": "South Coast"
         },
-        "last_updated": "2026-10-30T18:44:20.822573+10:00",
+        "last_updated": "2026-10-30T22:57:20.457271+10:00",
         "next_inspection": null,
         "web_link": "https://www.yoursay.edq.qld.gov.au/currumbin-eco-parkland",
         "alert_message": null
@@ -176138,7 +176138,7 @@
           "local_government_area": "Western Downs Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-10-30T16:14:19.673057+10:00",
+        "last_updated": "2026-10-30T22:58:20.059702+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -250970,7 +250970,7 @@
           "local_government_area": "Barcaldine Regional / Flinders Shire",
           "district": "Central West / North West"
         },
-        "last_updated": "2026-10-30T19:00:59.682993+10:00",
+        "last_updated": "2026-10-30T22:56:57.548436+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -277372,7 +277372,7 @@
           "local_government_area": "Banana Shire",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T18:43:57.30757+10:00",
+        "last_updated": "2026-10-30T22:58:08.983953+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -287478,7 +287478,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:42:03.341387+10:00",
+        "last_updated": "2026-10-30T22:56:27.30177+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -299920,7 +299920,7 @@
           "local_government_area": "Mount Isa City",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T19:01:47.966187+10:00",
+        "last_updated": "2026-10-30T22:56:56.105061+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -303302,7 +303302,7 @@
           "local_government_area": "Mount Isa City",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T19:01:47.755116+10:00",
+        "last_updated": "2026-10-30T22:56:55.510355+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -310597,7 +310597,7 @@
           "local_government_area": "Central Highlands Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T16:40:50.165191+10:00",
+        "last_updated": "2026-10-30T22:58:10.792372+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -315091,7 +315091,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:50:32.454089+10:00",
+        "last_updated": "2026-10-30T22:56:32.179881+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -336859,7 +336859,7 @@
           "local_government_area": "Central Highlands Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-28T22:58:54.234714+10:00",
+        "last_updated": "2026-10-30T22:58:53.668125+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -370653,7 +370653,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:46:03.223844+10:00",
+        "last_updated": "2026-10-30T22:56:28.339865+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -374609,7 +374609,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:46:47.284566+10:00",
+        "last_updated": "2026-10-30T22:56:28.732541+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -375639,7 +375639,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:48:32.250695+10:00",
+        "last_updated": "2026-10-30T22:56:29.452299+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -466426,7 +466426,7 @@
           "local_government_area": "Richmond Shire / Winton Shire",
           "district": "Central West / North West"
         },
-        "last_updated": "2026-10-30T21:26:33.212541+10:00",
+        "last_updated": "2026-10-30T22:56:39.494846+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -479721,7 +479721,7 @@
           "local_government_area": "Richmond Shire",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T19:01:46.806134+10:00",
+        "last_updated": "2026-10-30T22:56:49.480783+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -483463,7 +483463,7 @@
           "local_government_area": "Rockhampton Regional",
           "district": "Fitzroy"
         },
-        "last_updated": "2026-10-30T16:40:51.620861+10:00",
+        "last_updated": "2026-10-30T22:58:11.864903+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -483527,7 +483527,7 @@
           "local_government_area": "Mckinlay Shire",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T21:43:45.052195+10:00",
+        "last_updated": "2026-10-30T22:56:27.631885+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -490003,7 +490003,7 @@
           "local_government_area": "Goondiwindi Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-10-30T19:16:44.987243+10:00",
+        "last_updated": "2026-10-30T22:56:45.687752+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -491241,7 +491241,7 @@
           "local_government_area": "Western Downs Regional",
           "district": "Darling Downs"
         },
-        "last_updated": "2026-10-30T19:15:59.42353+10:00",
+        "last_updated": "2026-10-30T22:56:46.441364+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -496687,7 +496687,7 @@
           "local_government_area": "Flinders Shire",
           "district": "North West"
         },
-        "last_updated": "2026-10-30T19:54:59.629707+10:00",
+        "last_updated": "2026-10-30T22:56:38.868867+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -497953,7 +497953,7 @@
           "local_government_area": "Barcoo Shire",
           "district": "Central West"
         },
-        "last_updated": "2026-10-30T21:48:59.307096+10:00",
+        "last_updated": "2026-10-30T22:56:29.882245+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -498017,7 +498017,7 @@
           "local_government_area": "Tablelands Regional",
           "district": "Far North"
         },
-        "last_updated": "2026-10-30T21:30:45.04574+10:00",
+        "last_updated": "2026-10-30T22:56:44.952605+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -516202,7 +516202,7 @@
           "local_government_area": "Sunshine Coast Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-30T22:19:59.856074+10:00",
+        "last_updated": "2026-10-30T22:56:32.621525+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527420,7 +527420,7 @@
           "local_government_area": "Nsw",
           "district": "NSW"
         },
-        "last_updated": "2026-10-30T22:32:19.445519+10:00",
+        "last_updated": "2026-10-30T23:05:13.705391+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -527555,7 +527555,7 @@
       }
     }
   ],
-  "published": "2026-10-30T22:50:09.8139089+10:00",
+  "published": "2026-10-30T23:05:15.8160599+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
