@@ -508985,7 +508985,7 @@
           "local_government_area": "Longreach Regional",
           "district": "Central West"
         },
-        "last_updated": "2026-10-31T07:46:17.70187+10:00",
+        "last_updated": "2026-10-31T19:46:16.176781+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -514162,8 +514162,8 @@
         "impact": {
           "direction": "Both directions",
           "towards": null,
-          "impact_type": "Lanes affected",
-          "impact_subtype": "All lanes affected",
+          "impact_type": "Closures",
+          "impact_subtype": "Road closed to all traffic",
           "delay": null
         },
         "duration": {
@@ -514183,7 +514183,7 @@
           "local_government_area": "Burdekin Shire",
           "district": "Northern"
         },
-        "last_updated": "2026-10-31T19:19:50.104542+10:00",
+        "last_updated": "2026-10-31T19:49:01.482969+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -514254,7 +514254,7 @@
       }
     }
   ],
-  "published": "2026-10-31T19:35:23.3065662+10:00",
+  "published": "2026-10-31T19:49:04.2096736+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
