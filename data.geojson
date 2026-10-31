@@ -515572,11 +515572,11 @@
         "event_subtype": "Fire",
         "event_due_to": null,
         "impact": {
-          "direction": "Unknown",
+          "direction": "Both directions",
           "towards": null,
-          "impact_type": "N/A",
-          "impact_subtype": null,
-          "delay": null
+          "impact_type": "Closures",
+          "impact_subtype": "Partial lane closures",
+          "delay": "Delays expected"
         },
         "duration": {
           "start": "2026-10-31T22:13:00+10:00",
@@ -515584,7 +515584,7 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Low",
+        "event_priority": "Medium",
         "description": "Near Kevin Livingstone drive",
         "advice": "Proceed with caution",
         "information": null,
@@ -515595,7 +515595,7 @@
           "local_government_area": "Bundaberg Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-10-31T22:14:33.537478+10:00",
+        "last_updated": "2026-11-01T00:10:16.667614+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -515730,7 +515730,7 @@
       }
     }
   ],
-  "published": "2026-10-31T23:47:21.6357711+10:00",
+  "published": "2026-11-01T00:10:19.9233847+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
