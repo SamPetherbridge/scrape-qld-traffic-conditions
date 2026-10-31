@@ -518159,9 +518159,9 @@
         "impact": {
           "direction": "Southbound",
           "towards": "Brighton",
-          "impact_type": "Lanes affected",
-          "impact_subtype": "Lane or lanes reduced",
-          "delay": "No delays expected"
+          "impact_type": "Closures",
+          "impact_subtype": "Road closed to all traffic",
+          "delay": "Delays expected"
         },
         "duration": {
           "start": "2026-10-31T17:08:00+10:00",
@@ -518171,7 +518171,7 @@
         },
         "event_priority": "High",
         "description": "King Street",
-        "advice": "Proceed with caution",
+        "advice": "Use alternative route",
         "information": null,
         "road_summary": {
           "road_name": " Redcliffe Road (Oxley Avenue)",
@@ -518180,7 +518180,7 @@
           "local_government_area": "Moreton Bay Regional",
           "district": "North Coast"
         },
-        "last_updated": "2026-10-31T17:10:39.297825+10:00",
+        "last_updated": "2026-10-31T17:28:26.734353+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -518251,7 +518251,7 @@
       }
     }
   ],
-  "published": "2026-10-31T17:25:59.4217358+10:00",
+  "published": "2026-10-31T17:28:30.1074096+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
