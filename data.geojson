@@ -513271,8 +513271,8 @@
           "direction": "Southbound",
           "towards": "Pioneer Mill Road",
           "impact_type": "Lanes affected",
-          "impact_subtype": "Lane or lanes reduced",
-          "delay": null
+          "impact_subtype": "All lanes affected",
+          "delay": "Delays expected"
         },
         "duration": {
           "start": "2026-10-31T19:17:00+10:00",
@@ -513280,9 +513280,9 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Medium",
+        "event_priority": "High",
         "description": "Between Pioneer Mill Road and Five Ways Road",
-        "advice": "Emergency services are on scene/en-route",
+        "advice": "Proceed with caution",
         "information": null,
         "road_summary": {
           "road_name": "Bruce Highway",
@@ -513291,7 +513291,7 @@
           "local_government_area": "Burdekin Shire",
           "district": "Northern"
         },
-        "last_updated": "2026-11-01T02:27:43.764718+10:00",
+        "last_updated": "2026-11-01T02:50:27.524552+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -515488,8 +515488,8 @@
         "impact": {
           "direction": "Both directions",
           "towards": null,
-          "impact_type": "Closures",
-          "impact_subtype": "Partial lane closures",
+          "impact_type": "Lanes affected",
+          "impact_subtype": "All lanes affected",
           "delay": "Delays expected"
         },
         "duration": {
@@ -515498,7 +515498,7 @@
           "active_days": null,
           "recurrences": null
         },
-        "event_priority": "Medium",
+        "event_priority": "High",
         "description": "Near Kevin Livingstone drive",
         "advice": "Proceed with caution",
         "information": null,
@@ -515509,7 +515509,7 @@
           "local_government_area": "Bundaberg Regional",
           "district": "Wide Bay/Burnett"
         },
-        "last_updated": "2026-11-01T02:12:59.629608+10:00",
+        "last_updated": "2026-11-01T02:49:04.197301+10:00",
         "next_inspection": null,
         "web_link": null,
         "alert_message": null
@@ -516188,7 +516188,7 @@
       }
     }
   ],
-  "published": "2026-11-01T02:41:25.166806+10:00",
+  "published": "2026-11-01T02:50:29.7704751+10:00",
   "rights": {
     "owner": "As per the respective provided_by details contained in the feed: Department of Transport and Main Roads, Transport for NSW, or the respective Local Government Authority.",
     "disclaimer": "The State of Queensland makes no statements, representations or warranties about the accuracy, currency, reliability or completeness of the information contained in this feed.",
